@@ -1,0 +1,84 @@
+.grow-it-1 {
+  animation: progressBar-1 3s ease-out forwards;
+  animation-delay: 5s;
+  background-size: 300% 100%;
+  width: 0;
+}
+@keyframes progressBar-1 {
+  0% {
+    width: 0vh;
+  }
+  100% {
+    width: 60vh;
+  }
+}
+.grow-it-2 {
+  animation: progressBar-2 3s ease-out forwards;
+  animation-delay: 5.1s;
+  background-size: 300% 100%;
+  width: 0;
+}
+@keyframes progressBar-2 {
+  0% {
+    width: 0vh;
+  }
+  100% {
+    width: 80vh;
+  }
+}
+.grow-it-3 {
+  animation: progressBar-3 3s ease-out forwards;
+  animation-delay: 5.2s;
+  background-size: 300% 100%;
+  width: 0;
+}
+@keyframes progressBar-3 {
+  0% {
+    width: 0vh;
+  }
+  100% {
+    width: 75vh;
+  }
+}
+.grow-it-4 {
+  animation: progressBar-4 3s ease-out forwards;
+  animation-delay: 5.3s;
+  background-size: 300% 100%;
+  width: 0;
+}
+@keyframes progressBar-4 {
+  0% {
+    width: 0vh;
+  }
+  100% {
+    width: 80vh;
+  }
+}
+.grow-it-5 {
+  animation: progressBar-5 3s ease-out forwards;
+  animation-delay: 5.4s;
+  background-size: 300% 100%;
+  width: 0;
+}
+@keyframes progressBar-5 {
+  0% {
+    width: 0vh;
+  }
+  100% {
+    width: 60vh;
+  }
+}
+.grow-it-6 {
+  animation: progressBar-6 3s ease-out forwards;
+  animation-delay: 5.5s;
+  background-size: 300% 100%;
+  width: 0;
+}
+@keyframes progressBar-6 {
+  0% {
+    width: 0vh;
+  }
+  100% {
+    width: 90vh;
+  }
+}
